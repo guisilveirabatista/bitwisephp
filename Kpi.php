@@ -2,7 +2,6 @@
 
 class Kpi
 {
-
     public $bit1;
     public $bit2;
     public $bit3;
@@ -18,7 +17,6 @@ class Kpi
     public $bit13;
     public $bit14;
     public $flags = 8195;
-
 
     public function isFlagSet($flag)
     {

@@ -18,5 +18,3 @@ echo 'bit11' . ($kpi->isFlagSet(1024) == 1 ? 'true' : 'false') . '<br/>';
 echo 'bit12' . ($kpi->isFlagSet(2048) == 1 ? 'true' : 'false') . '<br/>';
 echo 'bit13' . ($kpi->isFlagSet(4096) == 1 ? 'true' : 'false') . '<br/>';
 echo 'bit14' . ($kpi->isFlagSet(8192) == 1 ? 'true' : 'false') . '<br/>';
-
-?>
